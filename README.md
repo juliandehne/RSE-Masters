@@ -1,3 +1,5 @@
+# DEPRECATED: the project has moved back to the original repository https://github.com/the-teachingRSE-project/RSE-Masters
+
 # RSE-Masters
 
 
